@@ -1,6 +1,6 @@
 ## Ai specialist
 
-### May some answers are wrong - Recheck the answers `& give a pull Request`
+
 
 ---
 
